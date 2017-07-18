@@ -35,13 +35,13 @@ There is a class User and a class `Server` which are instantiated with different
 settings in the `Test` class.
 To run a small demo of the code, type:
 
-```` bash
+```bash
 $ cd pricod
 $ sbt run
 ```
 
 For the tests:
-```` bash
+```bash
 $ cd pricod
 $ sbt test
 ```
